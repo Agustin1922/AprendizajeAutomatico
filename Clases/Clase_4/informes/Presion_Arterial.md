@@ -1,7 +1,14 @@
 # Informe sobre los factores que influyen en la presión arterial
 ## Exploración inicial
 
-El análisis de correlaciones muestra que las variables con mayor relación con la presión arterial son:
+El dataset incluye variables de edad, peso, horas de ejercicio, estrés, ingresos, horas de TV y la presión arterial como variable objetivo.
+De la exploración estadística se observó que:
+- La presión arterial aumenta en promedio con la edad y el peso.
+- El nivel de estrés también muestra correlación positiva con la presión arterial.
+- En cambio, los ingresos y las horas de TV no presentan una relación fuerte.
+
+
+## El análisis de correlaciones muestra que las variables con mayor relación con la presión arterial son:
 
 - Peso (r = 0.59): existe una correlación positiva moderada, lo que indica que a mayor peso, mayor presión arterial.
 
